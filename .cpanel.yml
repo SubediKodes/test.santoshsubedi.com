@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/powebfmn/public_html/
+    - export DEPLOYPATH=/home/powebfmn/test.santoshsubedi.com/
     - /bin/cp -a * $DEPLOYPATH
